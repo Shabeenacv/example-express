@@ -1,7 +1,7 @@
 {
   "name": "@ranken/example_express",
   "version": "1.0.0",
-  "description": "Express.js Example Project",
+  "description": "Group1 Example Elastic_Beanstalk Project",
   "main": "index.js",
   "scripts": {
     "start": "node -r dotenv/config index.js",
